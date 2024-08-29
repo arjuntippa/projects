@@ -1,4 +1,4 @@
 # projects
 solo projects.
 <br>
-author - Arjun Tippa
+author - Arjun v Tippa
